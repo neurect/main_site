@@ -1,0 +1,156 @@
+@media screen and (max-width : 1199px) {
+}
+@media screen and (max-width : 991px) {
+      .tm_menu_link{
+        margin-top: -230px
+    }
+}
+@media screen and (max-width : 767px) {
+.tm_countdown_text {
+	font-size: 16px;
+	line-height: 22px;
+}
+.tm_countdown_text h1 {
+	font-size: 30px;
+	line-height: 40px;
+}
+.tm_countdown .day {
+	font-size: 28px;
+}
+.tm_countdown span {
+	font-size: 14px;
+}
+.tm_countdown > div {
+	padding: 0 10px;
+}
+.tm_main {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.tm_about_wapper {
+	padding: 30px 0px;
+}
+.info-item {
+	margin-bottom: 20px;
+}
+.tm_about_contant h2 {
+	font-size: 30px;
+	line-height: 38px;
+	margin-bottom: 5px;
+}
+    .coming {
+    font-size: 30px;
+    margin-bottom: 24px;
+}
+   .coming span {
+    color: #f91515;
+    font-size: 35px;
+} 
+    .tm_countdown_text {
+    margin-top: 0px;
+}
+      .Neu {
+    color: #f91515;
+    font-size: 31px;
+    font-weight: bold;
+margin-top: 115px;
+          margin-right: 20px;
+}
+    .math_soon {
+    font-size: 25px;
+}
+  .tm_menu_link{
+        margin-top: -200px
+    }
+}
+@media screen and (max-width : 575px) {
+.tm_menu_link {
+	font-size: 18px;
+	padding: 6px 15px;
+}
+  
+.tm_menu_link.right {
+	right: -111px;
+}
+.tm_countdown_text h1 {
+	line-height: 32px;
+}
+    
+    .coming span {
+    color: #f91515;
+    font-size: 22px;
+}
+    .math_soon {
+    font-size: 22px;
+}
+    .Neu {
+    color: #f91515;
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+    .coming {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+    .tm_countdown_text h1 {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+     .tm_menu_link{
+        margin-top: -200px
+    }
+}
+@media screen and (max-width : 540px) {
+     
+    .coming span {
+    color: #f91515;
+    font-size: 18px;
+}
+    .math_soon {
+    font-size: 13px;
+}
+    .Neu {
+    color: #f91515;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 55px;
+    margin-right: 20px;
+}
+    .coming {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+    .tm_countdown_text h1 {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+      .tm_menu_link{
+        margin-top: -160px
+    }
+}
+@media screen and (max-width : 500px) {
+}
+@media screen and (max-width : 440px) {
+.tm_countdown > div {
+	padding: 0 0px;
+}
+}
+@media screen and (max-width : 415px) {
+.tm_countdown > div {
+	padding: 0 10px;
+	width: 50%;
+	margin-bottom: 15px;
+}
+}
+@media screen and (max-width : 360px) {
+.tm_social_media a {
+	line-height: 35px;
+	height: 35px;
+	width: 35px;
+	font-size: 19px;
+}
+}
