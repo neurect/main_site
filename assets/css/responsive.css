@@ -104,14 +104,12 @@ margin-top: 115px;
 @media screen and (max-width : 540px) {
      
     .coming span {
-    color: #f91515;
     font-size: 18px;
 }
     .math_soon {
     font-size: 13px;
 }
     .Neu {
-    color: #f91515;
     font-size: 16px;
     font-weight: bold;
     margin-top: 55px;
